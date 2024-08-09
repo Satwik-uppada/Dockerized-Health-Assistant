@@ -1,8 +1,7 @@
 # Dockerized-Health-Assistant
 # Health Assistant: Disease Prediction with Machine Learning (Streamlit Web App)
 
-![health](https://github.com/Satwik-uppada/Dockerized-Health-Assistant/assets/92086645/29624108-edbf-4474-b1fd-b79bd6e6ab50)
-
+![health](https://github.com/user-attachments/assets/f2239c8d-b402-4e9c-95c3-4279dbaa534f)
 
 ## Introduction
 
